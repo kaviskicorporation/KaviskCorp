@@ -19,6 +19,6 @@
   <a href = "mailto:kaviskicorp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://play.google.com/store/apps/dev?id=7784930460694957369"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
   
-  ![Snake animation]()
+  ![Snake animation](https://github.com/KaviskCorp/KaviskCorp/blob/output/github-contribution-grid-snake.svg)
   
 </div>
